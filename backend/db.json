@@ -1,0 +1,220 @@
+{
+  "messages": [
+    {
+      "id": "ksKZUHuv1Dc0VLqSzTbkU",
+      "role": "user",
+      "text": "hi what is your name",
+      "createdAt": "2025-12-11T07:11:55.230Z"
+    },
+    {
+      "id": "ePsub1ZUi2FPpkrGejg2k",
+      "role": "ai",
+      "text": "Echo (no GROQ key): hi what is your name",
+      "createdAt": "2025-12-11T07:11:55.234Z"
+    },
+    {
+      "id": "FbXNyKlP7wJTU2B6Rd_A7",
+      "role": "user",
+      "text": "hi what is your name",
+      "createdAt": "2025-12-11T07:13:17.390Z"
+    },
+    {
+      "id": "vJ0j7dE0KgvTKqftWIa9a",
+      "role": "ai",
+      "text": "Echo (no GROQ key): hi what is your name",
+      "createdAt": "2025-12-11T07:13:17.392Z"
+    },
+    {
+      "id": "F3ZhBXJ4LhFOaUpzNvvWm",
+      "role": "user",
+      "text": "hi what is your name",
+      "createdAt": "2025-12-11T07:14:59.930Z"
+    },
+    {
+      "id": "Ulr86pYnx10LNklR6-pI-",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T07:15:00.168Z"
+    },
+    {
+      "id": "UfSeGVuwJdIF4ojW_3bo6",
+      "role": "user",
+      "text": "hi what is your name",
+      "createdAt": "2025-12-11T07:18:12.870Z"
+    },
+    {
+      "id": "p1WRL0cBVNW5JDYbHA10y",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T07:18:13.113Z"
+    },
+    {
+      "id": "9tklr-310oLfVAvgOcJ33",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T07:20:03.844Z"
+    },
+    {
+      "id": "Leq43-cL90-N2u3gSqDQi",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T07:20:03.990Z"
+    },
+    {
+      "id": "b8hNNipBUO93bV0Km87Ay",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T07:20:38.764Z"
+    },
+    {
+      "id": "I96Un3O0bn2yvy-ePzyMT",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T07:20:39.050Z"
+    },
+    {
+      "id": "oz9teaZf5zljgP0-Kk6Ik",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T07:20:53.207Z"
+    },
+    {
+      "id": "P4KGT70fpRxomqQB-i3p6",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T07:20:54.012Z"
+    },
+    {
+      "id": "pYxbqawDMQqIqjgc68k_I",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T07:31:02.151Z"
+    },
+    {
+      "id": "tOIfd7ctXYzQNUBc0bLQb",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T07:31:02.919Z"
+    },
+    {
+      "id": "RigJXP3CpWYVrMBz3TpWt",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T07:34:59.850Z"
+    },
+    {
+      "id": "PcFhXOKJPqAqq2oZt5IUp",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T07:35:00.085Z"
+    },
+    {
+      "id": "JH6u65XHFSDTcLAZZ7EmX",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T08:44:15.040Z"
+    },
+    {
+      "id": "zkj-VxF36zqWATx2gb7SG",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T08:44:15.196Z"
+    },
+    {
+      "id": "YwVSNv7UA8nlrMzb1BZ3n",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T08:46:36.889Z"
+    },
+    {
+      "id": "8qsGNmTAguCTvB3SUp9Yo",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T08:46:37.954Z"
+    },
+    {
+      "id": "goQVMQ_WfatF1YiQDrSNZ",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T08:55:37.985Z"
+    },
+    {
+      "id": "brJxvSeHZt36TQRl1IyTI",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T08:55:38.883Z"
+    },
+    {
+      "id": "jICD7flU_AvL7xEGnDlXm",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T08:59:39.325Z"
+    },
+    {
+      "id": "0W6xU-GpAUGeb1WypTlSj",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T08:59:39.678Z"
+    },
+    {
+      "id": "LhyYojgUapltVogaMnvEY",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T09:01:34.720Z"
+    },
+    {
+      "id": "f-uPKH3EihLjCJd7DlNx1",
+      "role": "ai",
+      "text": "Error from Groq provider — see server logs.",
+      "createdAt": "2025-12-11T09:01:35.153Z"
+    },
+    {
+      "id": "TT0bs47xF9NQ3_KfwiQyJ",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T09:03:56.730Z"
+    },
+    {
+      "id": "NGmoERub2waZCSLJFefpi",
+      "role": "ai",
+      "text": "Hello. How can I assist you today?",
+      "createdAt": "2025-12-11T09:03:57.103Z"
+    },
+    {
+      "id": "1EID1zH6pdIEB59bByaA_",
+      "role": "user",
+      "text": "how are u",
+      "createdAt": "2025-12-11T09:05:17.791Z"
+    },
+    {
+      "id": "mEp4fVmqjLhiM0K07OncT",
+      "role": "ai",
+      "text": "I'm functioning properly. How can I assist you today?",
+      "createdAt": "2025-12-11T09:05:17.984Z"
+    },
+    {
+      "id": "33sv0ogv6CwPG7Ww8ym1m",
+      "role": "user",
+      "text": "hi",
+      "createdAt": "2025-12-11T17:36:59.760Z"
+    },
+    {
+      "id": "Ixm3JaVRvP1P_Yz1GdJsX",
+      "role": "ai",
+      "text": "How can I assist you today?",
+      "createdAt": "2025-12-11T17:37:00.037Z"
+    },
+    {
+      "id": "bLTlkExbxqfdzVH8a3Hqr",
+      "role": "user",
+      "text": "what is the weather in usa",
+      "createdAt": "2025-12-11T17:37:12.067Z"
+    },
+    {
+      "id": "HuXWIgn0bsNQkDr75VXqq",
+      "role": "ai",
+      "text": "I'm not aware of the current date or time you are asking, which makes it difficult for me to provide an accurate answer. However, I can give you a general idea of the typical weather patterns in the United States at different times of the year.\n\n**Seasonal Weather Patterns:**\n\n- **Winter (December to February):** Cold temperatures prevail in the northern and eastern parts of the country. The southern states experience mild winters, while the western states have varying temperatures.\n\n- **Spring (March to May):** Temperatures gradually rise as winter gives way to spring. This is the best time to see flowers bloom in the northern states, and the weather is generally mild.\n\n- **Summer (June to August):** Hot temperatures are common across the country, especially in the southern states. The western states experience dry heat, while the eastern states have humid heat.\n\n- **Autumn (September to November):** The fall season brings cooler temperatures and the changing of the leaves in the northern states. The southern states experience mild temperatures, while the western states have varying weather conditions.\n\n**Regional Weather Patterns:**\n\n- **East Coast:** The eastern seaboard is generally cooler, with cold winters and mild summers. The Northeast experiences harsh winters, while the Southeast has mild temperatures.\n\n- **Gulf Coast:** The Gulf Coast states have mild winters and hot, humid summers. Hurricane season occurs between June and November.\n\n- **West Coast:** The western states experience dry heat in the summer and mild winters. The Pacific Northwest is generally cooler, while the Southwest is hot and dry.\n\n- **Midwest:** The Midwest has cold winters and hot summers. The region experiences varying weather conditions due to its location.\n\n**Current Weather:**\n\nIf you want to know the current weather in the USA, I can suggest a few options:\n\n1. **Check online weather websites:** Websites like AccuWeather, Weather.com, or the National Weather Service (NWS) provide up-to-date weather information for locations across the country.\n\n2. **Use a weather app:** Mobile apps like Dark Sky or Weather Underground offer current weather conditions, forecasts, and alerts for specific locations.\n\n3. **Check social media:** Follow local news outlets or weather service accounts on social media platforms like Twitter or Facebook for updates on current weather conditions.\n\nPlease let me know if there's anything else I can help you with.",
+      "createdAt": "2025-12-11T17:37:13.001Z"
+    }
+  ]
+}
